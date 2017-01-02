@@ -1,0 +1,18 @@
+{
+  "name": "Onitzz/projetVoeux",
+  "authors": [
+    "Onitzz <benjamin.soufflet.info@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "UNLICENSED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
